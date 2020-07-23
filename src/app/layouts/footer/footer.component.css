@@ -1,0 +1,59 @@
+.redak {
+	width: 109px;
+	height: 34px;
+	background-color: #AC0E0E;
+	color: white;
+	border-radius: 10px 10px 0px 0px;
+	text-align: center;
+	padding-top: 8px;
+	cursor: pointer;
+	position: absolute;
+	left: 15px;
+	margin-top: -12px;
+}
+
+.redak a:hover {
+	color: white !important;
+	text-decoration: none;
+}
+.redak p {
+	font-size: 12px;
+}
+
+.footer .row {
+	padding-top: 1.2rem;
+}
+
+.footer img {
+	cursor: pointer;
+}
+
+.footer .col-md-3 {
+	font-size: 11px;
+}
+
+.footer .col-md-3 {
+	font-size: 12px;
+}
+
+.notification {
+	text-align: right;
+	font-size: 12px;
+}
+
+.notification p {
+	padding-right: 10px;
+}
+
+.notification p:nth-child(1) {
+	padding-top: 10px;
+}
+
+.footer-mobile {
+	display: none;
+}
+
+.footer-desktop {
+	display: block;
+}
+

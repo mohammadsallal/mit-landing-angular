@@ -1,0 +1,72 @@
+.my-applicance {
+	height: 3.3rem;
+	background-color: #2c3d51;
+	border-radius: 5px 5px 0px 0px;
+    font-size: 15px;
+
+}
+
+.my-applicance p {
+	padding-top: 0.9rem;
+	text-align: right;
+	color: white;
+}
+.width-aligment {
+	padding-right: 51px;
+    padding-left: 51px;
+}
+.glyphicon {
+	font-family: GLYPHICONS Halflings Regular;
+}
+.filter-key-margin {
+	margin-right: 0.0rem;
+    padding-left: 2rem;
+    padding-right: 13px;
+}
+.main-service-key {
+	margin-top: 1rem;
+}
+.main-service-key button {
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	padding-right: 2rem;
+	padding-left: 2rem;
+	background-color: #f5f5f6;
+	border-radius: 5px;
+	color: #666666;
+	font-size: 14px;
+	font-weight: bold;
+    float: right;
+    cursor: pointer;
+}
+.main-service-key button:hover,
+.main-service-key button:active,
+.main-service-key button:visited,
+.main-service-key button:focus {
+	background-color: #32c6d2;
+	color: #ffffff;
+}
+.filter-key-margin {
+	margin-right: 0.0rem;
+    padding-left: 2rem;
+    padding-right: 13px;
+}
+.servicefilter-Wrapper {
+	position: relative;
+	padding: 6px 20px;
+	border: 1px solid #666666;
+	background-color: #fff;
+	color: #666666;
+	margin: 0 4px 0 0;
+	display: inline-block;
+	text-align: center;
+	border-radius: 3px;
+	font-size: 14px;
+    transition: all .5s ease;
+    cursor: pointer;
+}
+.servicefilter-Wrapper:hover, servicefilter-Wrapper:active, servicefilter-Wrapper:focus, servicefilter-Wrapper:visited {
+    background-color: #d25732;
+    border: 1px solid #d25732;
+    color: #fff;
+}

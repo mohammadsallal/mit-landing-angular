@@ -1,0 +1,116 @@
+
+.serv-div {
+	width: 100%;
+	height: 300px;
+    box-shadow: 0px 0px 15px #00000029;
+	-webkit-box-shadow: 0px 0px 15px #00000029;
+	-moz-box-shadow: 0px 0px 15px #00000029;
+	overflow: hidden;
+	position: relative;
+	padding: 1em;
+	border-radius: 5px;
+	background-color: #ffffff;
+	margin: 0 auto;
+	margin-bottom: 0.25em;
+	margin-top: 2.52em;
+	font-size: 13px;
+}
+
+.serv-div img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 22%;
+	width: 70px;
+	height: auto;
+}
+
+.serv-div .serv-icon p {
+	margin-bottom: 20%;
+}
+.serv-div:hover .w3-display-middle {
+	top: 50% !important;
+}
+.serv-div:hover .w3-display-hover {
+	visibility: visible;
+}
+.w3-display-middle {
+	padding-top: 17%;
+	height: 100%;
+}
+.w3-display-middle {
+	top: 151% !important;
+}
+
+.serv-div:hover .w3-display-middle {
+	top: 50% !important;
+}
+
+.w3-display-hover {
+	display: block !important;
+	visibility: hidden;
+}
+.serv-div:hover .w3-display-hover {
+	visibility: visible;
+}
+
+.w3-btn,
+.w3-button {
+	padding: 8px 40px !important;
+	margin-top: 24px;
+}.w3-xlarge {
+	font-size: 16px !important;
+	text-align: center;
+	width: 100%;
+	animation-duration: 4s;
+	text-align: center;
+	transition: all .5s ease;
+	padding-left: 4%;
+	padding-right: 4%;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	position: absolute;
+	bottom: -100%;
+}
+
+.w3-button {
+	background: #32c6d2 !important;
+	border-radius: 4px;
+	padding-left: 50%;
+	padding-right: 50%;
+	color: white;
+}
+
+.w3-button:hover {
+	background: #D25732 !important;
+	color: white !important;
+}
+.w3-display-hover {
+	background-color: #2c3d51;
+	animation-duration: 4s;
+	padding-bottom: 25px;
+	color: white;
+	text-align: center;
+	transition: all .5s ease;
+}
+.pragrph-inside {
+	font-size: 12px;
+}
+
+.w3-display-middle {
+	padding-top: 17%;
+	height: 100%;
+}
+
+.w3-button {
+	font-size: 14px;
+}
+
+.hideForce {
+	display: none !important;
+}
+.glyphicon {
+	font-family: GLYPHICONS Halflings Regular;
+}

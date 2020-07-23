@@ -1,0 +1,87 @@
+.my-applicance {
+	height: 3.3rem;
+	background-color: #2c3d51;
+	border-radius: 5px 5px 0px 0px;
+	font-size: 15px;
+}
+.order-status{
+    margin-top: 170px;
+}
+.my-applicance p {
+	padding-top: 0.9rem;
+	text-align: right;
+	color: white;
+}
+.my-applicance-body {
+	height: 100px;
+}
+
+.my-applicance-body .col-md-2>div,
+.my-applicance-body .col-md-3>div {
+	width: 100%;
+	background-color: #f3f4f5;
+	cursor: pointer;
+	height: 70px;
+	margin-top: 1rem;
+}
+
+.my-applicance-body .col-md-2>div:hover,
+.my-applicance-body .col-md-3>div:hover {
+	background-color: #fcfcfc;
+	box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.13);
+	cursor: pointer;
+}
+.my-applicance-body .col-md-2>div p {
+	margin-bottom: 0.2rem;
+	font-size: 12px;
+	padding-top: 12%;
+}
+
+.my-applicance-body .col-md-2 > div img {
+	margin-top: 5%;
+}
+
+
+.my-applicance-body .col-md-2 div .row {
+	height: 1.5rem;
+}
+
+.my-applicance-body .col-md-2 h1 {
+	font-size: 41px;
+}
+.app-border-all {
+	border-right: 3px solid #32c6d2;
+}
+
+.app-border-all:hover {
+	border: 1px solid #32c6d2;
+	border-right: 3px solid #32c6d2;
+}
+.app-border-setting {
+	border-right: 3px solid #d25732;
+}
+
+.app-border-setting:hover {
+	border: 1px solid #d25732;
+	border-right: 3px solid #d25732;
+}
+.app-border-send {
+	border-right: 3px solid #36b243;
+}
+
+.app-border-send:hover {
+	border: 1px solid #36b243;
+	border-right: 3px solid #36b243;
+}
+.app-border-edit {
+	border-right: 3px solid #9252b2;
+}
+
+.app-border-edit:hover {
+	border: 1px solid #9252b2;
+	border-right: 3px solid #9252b2;
+}
+.mobile-aligment{
+    padding-right: 66px;
+    padding-left: 66px;
+}
